@@ -21,7 +21,7 @@ globalThis.fetch = async (url, options) => {
   };
 };
 
-const { default: handler } = await import("./telegram-webhook.mjs");
+const { default: handler } = await import("../netlify/functions/telegram-webhook.mjs");
 
 function makeRequest(bodyObj) {
   return {

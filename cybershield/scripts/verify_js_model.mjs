@@ -9,13 +9,13 @@
 import { readFileSync } from "fs";
 import { fileURLToPath } from "url";
 import path from "path";
-import { predict } from "./lightweight_model/predict.mjs";
-import wordFeatures from "./lightweight_model/word_features.mjs";
-import charFeatures from "./lightweight_model/char_features.mjs";
-import modelConfig from "./lightweight_model/config.mjs";
+import { predict } from "../netlify/functions/lightweight_model/predict.mjs";
+import wordFeatures from "../netlify/functions/lightweight_model/word_features.mjs";
+import charFeatures from "../netlify/functions/lightweight_model/char_features.mjs";
+import modelConfig from "../netlify/functions/lightweight_model/config.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const referencePath = path.join(__dirname, "..", "..", "model", "reference_predictions.json");
+const referencePath = path.join(__dirname, "..", "model", "reference_predictions.json");
 const reference = JSON.parse(readFileSync(referencePath, "utf-8"));
 
 let allMatch = true;
