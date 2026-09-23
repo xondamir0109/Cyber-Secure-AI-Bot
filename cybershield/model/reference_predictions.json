@@ -1,0 +1,127 @@
+{
+  "Kartangiz bloklanadi, tasdiqlash kodini yuboring!": {
+    "predicted": "phishing",
+    "proba_phishing": 0.8626543253507765,
+    "proba_safe": 0.13734567464922354
+  },
+  "Ertaga soat 15:00da uchrashamiz.": {
+    "predicted": "safe",
+    "proba_phishing": 0.06117698809458871,
+    "proba_safe": 0.9388230119054113
+  },
+  "Assalomu alaykum, Davlat xizmatlari markazidan qo'ng'iroq qilyapman, arizangiz bo'yicha qo'shimcha hujjat kerak, ID va parolingizni SMS orqali tasdiqlang.": {
+    "predicted": "phishing",
+    "proba_phishing": 0.7171474466565518,
+    "proba_safe": 0.28285255334344817
+  },
+  "Elektr energiyasi uchun oylik to'lovni ilova orqali muvaffaqiyatli amalga oshirdim, kvitansiya keldi.": {
+    "predicted": "safe",
+    "proba_phishing": 0.1278022334181803,
+    "proba_safe": 0.8721977665818197
+  },
+  "Doʻstim xorijda qonuniy ishlayapti, patent va sugʻurtasini ish beruvchisi toʻlagan.": {
+    "predicted": "safe",
+    "proba_phishing": 0.48246180260015037,
+    "proba_safe": 0.5175381973998496
+  },
+  "Salom, guruhga 100 kishi qo'shsang katta bonus beramiz, ishtirokchilarning skrinshotlarini ko'rsatamiz, ishonchli.": {
+    "predicted": "phishing",
+    "proba_phishing": 0.7075665418006992,
+    "proba_safe": 0.2924334581993008
+  },
+  "Universitet klubimiz a'zolarini ko'paytiryapmiz, qo'shiling, hech qanday to'lov yo'q, faqat faollik kerak.": {
+    "predicted": "safe",
+    "proba_phishing": 0.4198865330897035,
+    "proba_safe": 0.5801134669102965
+  },
+  "Telefoningizni sotib olaman, boshqa shaharda yashayman, pulni pochta orqali yuboraman, siz komissiya to'lang.": {
+    "predicted": "phishing",
+    "proba_phishing": 0.730953771770473,
+    "proba_safe": 0.269046228229527
+  },
+  "OLX'da noutbuk sotib oldim, sotuvchi bilan uchrashib, naqd pul berdim, tekshirib ko'rdim.": {
+    "predicted": "safe",
+    "proba_phishing": 0.13420334162776382,
+    "proba_safe": 0.8657966583722362
+  },
+  "Pulingizni ikki soatda 10 barobar qilib beraman, avval 500 ming so'm yuboring, keyin qolganini ko'rasiz.": {
+    "predicted": "phishing",
+    "proba_phishing": 0.6947883961449806,
+    "proba_safe": 0.3052116038550195
+  },
+  "Fond bozori bo'yicha universitet kursini tugatdim, endi amaliyot bilan shug'ullanyapman, xavflarni bilaman.": {
+    "predicted": "safe",
+    "proba_phishing": 0.24773575207766774,
+    "proba_safe": 0.7522642479223323
+  },
+  "Hokimlik xodimiman, sizni bo'lim boshlig'i qilib tayinlash masalasi hal qilindi, faqat rasmiylashtirish xarajati bor, hech kimga aytmang.": {
+    "predicted": "phishing",
+    "proba_phishing": 0.623556051921976,
+    "proba_safe": 0.376443948078024
+  },
+  "Hokimlik tomonidan rasmiy tanlov e'lon qilindi, hujjatlarni topshirdim, natijani kutyapman.": {
+    "predicted": "safe",
+    "proba_phishing": 0.19531359806353732,
+    "proba_safe": 0.8046864019364627
+  },
+  "Bola qon saratoniga chalingan, davolash uchun mablag' yetishmayapti, iltimos ulashing va yordam bering, karta raqami: 8600...": {
+    "predicted": "phishing",
+    "proba_phishing": 0.8664901599785075,
+    "proba_safe": 0.13350984002149252
+  },
+  "Onkologiya markaziga rasmiy xayriya jamg'armasi orqali pul o'tkazdim, kvitansiya bor.": {
+    "predicted": "safe",
+    "proba_phishing": 0.31911585385040997,
+    "proba_safe": 0.68088414614959
+  },
+  "Telegram botimiz orqali istalgan miqdorda kredit tasdiqlanadi, faqat pasport rasmi va karta raqamini yuboring.": {
+    "predicted": "phishing",
+    "proba_phishing": 0.7315703429246581,
+    "proba_safe": 0.26842965707534194
+  },
+  "Bank ilovasi orqali kredit uchun onlayn ariza to'ldirdim, javobni ilovaning o'zida kutyapman, hech qanday kod so'ralmadi.": {
+    "predicted": "safe",
+    "proba_phishing": 0.16715120911994907,
+    "proba_safe": 0.8328487908800509
+  },
+  "test": {
+    "predicted": "safe",
+    "proba_phishing": 0.4338069452821347,
+    "proba_safe": 0.5661930547178653
+  },
+  "Assalomu alaykum": {
+    "predicted": "safe",
+    "proba_phishing": 0.25810561234553464,
+    "proba_safe": 0.7418943876544654
+  },
+  "Bugun ob-havo juda yaxshi, bolalar bilan bog'ga boramiz.": {
+    "predicted": "safe",
+    "proba_phishing": 0.26864145076750034,
+    "proba_safe": 0.7313585492324997
+  },
+  "TEZKOR! KARTANGIZ HOZIROQ BLOKLANADI, LINK: bit.ly/xyz123": {
+    "predicted": "phishing",
+    "proba_phishing": 0.8341795464999027,
+    "proba_safe": 0.16582045350009728
+  },
+  "Salom qanaqasiz, ishlar yaxshimi?": {
+    "predicted": "phishing",
+    "proba_phishing": 0.5397233304882865,
+    "proba_safe": 0.4602766695117135
+  },
+  "🎉 SIZGA 50.000.000 SO'M YUTUQ CHIQDI! Olish uchun: www.yutuq-uz.com": {
+    "predicted": "phishing",
+    "proba_phishing": 0.92999745851584,
+    "proba_safe": 0.07000254148415992
+  },
+  "Assalomu alaykum, hurmatli mijoz, sizning arizangiz ko'rib chiqilmoqda.": {
+    "predicted": "safe",
+    "proba_phishing": 0.17998855350068488,
+    "proba_safe": 0.8200114464993151
+  },
+  "Sizning IP manzilingiz kuzatilmoqda, darhol qonun bo'yicha jarima to'lang: 500000 so'm": {
+    "predicted": "phishing",
+    "proba_phishing": 0.851760413369052,
+    "proba_safe": 0.14823958663094808
+  }
+}
